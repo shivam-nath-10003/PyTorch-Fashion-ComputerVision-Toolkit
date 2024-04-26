@@ -1,5 +1,5 @@
 
-# <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo" width="30" height="30"> PyTorch Computer Vision Projec
+# <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo" width="30" height="30"> PyTorch Computer Vision Project
 
 ## Overview
 
