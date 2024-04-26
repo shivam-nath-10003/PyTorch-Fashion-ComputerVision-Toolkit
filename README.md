@@ -77,6 +77,6 @@ Detailed results for each model, including accuracy, loss, and training time, ar
 
 ## Contributing
 
-Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull requests.
-*Due to large data size, it could not be added to the repository, but the path to download data is mentioned in ```Computer_Vision_Pytorch_Fashion.ipynb```.
+1. Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull requests.
+2. *Due to large data size, it could not be added to the repository, but the path to download data is mentioned in ```Computer_Vision_Pytorch_Fashion.ipynb```.
 
