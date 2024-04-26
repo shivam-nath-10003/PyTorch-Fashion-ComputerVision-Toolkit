@@ -1,4 +1,4 @@
-# PyTorch-Fashion-ComputerVision-Toolkit
+# ![PyTorch Computer Vision Project](https://pytorch.org/assets/images/pytorch-logo.png) PyTorch-Fashion-ComputerVision-Toolkit
 
 ## Overview
 
