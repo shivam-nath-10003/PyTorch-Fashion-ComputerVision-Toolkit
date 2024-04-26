@@ -73,6 +73,7 @@ To run the project, follow these steps:
 ## Results
 
 Detailed results for each model, including accuracy, loss, and training time, are provided. These results are compared to identify the best-performing model.
+*Due to large data size, it could not be added to the repository, but the path to download data is mentioned in ```Computer_Vision_Pytorch_Fashion.ipynb```.
 
 ## Contributing
 
